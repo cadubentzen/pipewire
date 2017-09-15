@@ -30,7 +30,7 @@ extern "C" {
 #include <spa/list.h>
 #include <spa/node.h>
 
-#if 0
+#if 1
 #define debug(...)	printf(__VA_ARGS__)
 #else
 #define debug(...)
